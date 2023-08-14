@@ -1,3 +1,6 @@
+# Outdated
+Since the patch 7.33 the audio files are outdated.
+
 # Dota Audio Assistance [en]
 
 Dota audio assistance is an audio file for the first 10 minutes of gaming. It contains remainders for the runes, bounties and catapults. The aim public are distracted players that miss those elements in the phase lane.
